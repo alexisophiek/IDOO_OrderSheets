@@ -1,2 +1,2 @@
-user = ""
-user_pass = ""
+user = "alexis.kozak"
+user_pass = "Humania00"
