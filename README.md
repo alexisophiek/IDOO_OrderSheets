@@ -9,3 +9,6 @@ Recent Update:
 
 Notebook now includes columns for stores total inventory minus SIMs and DEMO skus and another column which calculates percent of a given device of that stores total inventory.  The goal is to encourage store's to "Smart Sell" even when a promo is hot.  A store should never have one device be above a total amount of their inventory.
 
+Goals:
+Add to a framework server for internal tools for the Audit Team.
+
